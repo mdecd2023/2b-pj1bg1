@@ -1,1 +1,1 @@
-var tipuesearch = {"pages": [{'title': 'About', 'text': '設計二乙 41023207 楊舒涵', 'tags': '', 'url': 'About.html'}]};
+var tipuesearch = {"pages": [{'title': 'About', 'text': '設計二乙 41023207 楊舒涵 \n 設計二乙 41023208 廖子儀 \n', 'tags': '', 'url': 'About.html'}]};
